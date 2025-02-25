@@ -1,7 +1,0 @@
-% 
-% PALMPRINT IDENTIFICATION SYSTEM V1
-% 
-% 
-%
-%
-%
